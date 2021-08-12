@@ -1,12 +1,5 @@
 Usando git para projetos
 
-fdfsdfdf
+novo teste dia 12/08/2021
 
-sdfd
-fdsf
-
-
-
-dsfdfjdhjfdsjfdfhj 
-fsdjfhuhrenfdfkfslk
 
